@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Version>1.0.0</Version>
+    <AssemblyName>CheckCpu-V_v$(Version)</AssemblyName>
+    <RootNamespace>CheckCpuV</RootNamespace>
+    <Product>Check CPU-V</Product>
+    <AssemblyTitle>Check CPU-V</AssemblyTitle>
+    <Description>Check CPU-V</Description>
+    <Authors>NeetheCheeBao</Authors>
+    <Company>NeetheCheeBao</Company>
+    <Copyright>© NeetheCheeBao</Copyright>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationIcon>Assets\app.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Management" />
+  </ItemGroup>
+
+</Project>
