@@ -36,7 +36,7 @@ public sealed class MainForm : Form
     private bool _footerHover;
 
     private const string FooterText = "© NeetheCheeBao";
-    private const string FooterUrl = "https://github.com/NeetheCheeBao/CheckCpu-V";
+    private const string FooterUrl = "https://github.com/NeetheCheeBao/Check-CPU-V";
 
     public MainForm()
     {

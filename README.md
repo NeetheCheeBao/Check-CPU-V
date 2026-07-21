@@ -36,7 +36,7 @@
 
 ## ⬇️ 下载使用
 
-前往 [Releases](https://github.com/NeetheCheeBao/CheckCpu-V/releases) 页面下载
+前往 [Releases](https://github.com/NeetheCheeBao/Check-CPU-V/releases) 页面下载
 
 ## 🛠️ 编译
 

@@ -18,7 +18,7 @@
     <Copyright>© NeetheCheeBao</Copyright>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
-    <ApplicationIcon>Assets\app.ico</ApplicationIcon>
+    <ApplicationIcon>assets/app.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
