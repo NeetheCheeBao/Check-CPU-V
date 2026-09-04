@@ -44,7 +44,7 @@
 dotnet publish -c Release -o dist
 ```
 
-或者
+或
 
 ```bash
 .\build.bat
